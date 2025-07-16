@@ -37,7 +37,8 @@ Pastikan environment kamu sudah terinstall:
 - Library: `pandas`, `numpy`, `scikit-learn`, `imblearn`, `xgboost`, `seaborn`, `matplotlib`, `category_encoders`, `missingno`, `statsmodels`, `lightgbm`.
 
 ## Contributor 
-Dikembangkan oleh M Rikza N Fachry [Linkedein](www.linkedin.com/in/mrikzanf) 
-                                   [Github](https://github.com/Rick-zaa)
-                  Dimas Maulidin Firdaus [Linkedein](https://www.linkedin.com/in/dhymasmf/)
-                                         [Github](https://github.com/dhymasmf)
+Dikembangkan oleh 
+- M Rikza N Fachry            [Linkedein](www.linkedin.com/in/mrikzanf)
+                              [Github](https://github.com/Rick-zaa)
+- Dimas Maulidin Firdaus      [Linkedein](https://www.linkedin.com/in/dhymasmf/)
+                              [Github](https://github.com/dhymasmf)
